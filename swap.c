@@ -7,4 +7,5 @@ int main(){
     b=temp;
     printf("%d %d", a,b);
     return 0;
+    //fixed commit message
 }
