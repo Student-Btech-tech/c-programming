@@ -1,4 +1,5 @@
 #include<stdio.h>
+//area of rectangle
 int main(){
     int length, bredth, area;
     printf("enter length,bredth");
